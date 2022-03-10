@@ -1,0 +1,7 @@
+name: TournamentHelper
+version: "1.0"
+main: net.elytrapvp.tournamenthelper.TournamentHelper
+
+commands:
+  join:
+    description: join a tournament.
